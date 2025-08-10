@@ -108,7 +108,7 @@
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="  <a href="[https://www.linkedin.com/in/mina-makram-086679365/" target="_blank">" target="_blank">
+  <a href="[https://www.linkedin.com/in/mina-makram](https://www.linkedin.com/in/mina-makram-086679365/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
   <a href="mailto:minamakr1234@gmail.com">
